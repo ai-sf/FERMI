@@ -1,0 +1,146 @@
+v10	22/02/15 17:45	CERN Summer Programme	Particelle	["1"]	Estate	["Triennale","Magistrale"]	{"label":"Link","link":"http:\/\/home.web.cern.ch\/students-educators\/summer-student-programme"}	Eccellente opportunità per partecipare ai lavori del CERN, collaborando attivamente all’interno di uno dei gruppi di ricerca.  Il programma offre ottime opportunità di socializzazione in un contesto internazionale: saranno infatti presenti molti studenti da tutto il mondo e si potrà  seguire una serie di lezioni preparate appositamente per i partecipanti.	NULL
+
+
+2	09/01/15 01:41	ESA	Space Science	["1"]	Annuale da settembre	["Post-laurea"]	{"label":"Link","link":"http:\/\/www.esa.int\/About_Us\/Careers_at_ESA\/Young_Graduate_Trainees"}	Per chi tra di noi è già in possesso di una laurea magistrale (o la otterrà prima di settembre 2015), l'ESA offre un'eccellente opportunità di lavoro e crescita accademica, il programma 'Young Graduate Trainee'. I progetti sono proposti sul sito a partire da metà novembre e la possibilità di fare domanda è fino a metà dicembre. Lo stipendio è ottimo per un giovane laureato, circa €2200 al mese!	NULL
+
+
+3	29/01/15 21:00	Fermilab	Particelle	["1"]	Estate	["Triennale","Magistrale"]	{"label":"Internship Fermilab","link":"http:\/\/ed.fnal.gov\/interns\/programs\/ital-students\/index.shtml"}	Programma estivo di ricerca al Fermilab di Chicago, specializzato nella fisica delle particelle. Da notare che alcune opportunità sono riservate esclusivamente a studenti italiani.	NULL
+
+
+4	29/01/15 21:02	Imperial College London - UROP	Varie	["1","0"]	Estate	["Triennale","Magistrale"]	{"label":"UROP","link":"http:\/\/www3.imperial.ac.uk\/urop"}	Programma estivo di ricerca che si estende su tutte le discipline dell’Imperial College di Londra. Qui si può accedere alla pagina in cui vengono pubblicizzate alcune delle opportunità. Nota che la maggior parte delle posizioni nell'Undergraduate Research Opportunity Programme (UROP) non sono mai pubblicizzate pubblicamente, ma vengono create su ricezione di proposte di studenti ad un membro dello Staff dell'Imperial. Nel caso siate interessati ad un progetto in un’altra disciplina, non esitate a fare domanda: è abbastanza comune che studenti di fisica facciano dei progetti al di fuori della loro materia specifica.Per consigli sullo UROP all'Imperial College, potete contattate Francesco (francesco.sciortino12@imperial.ac.uk). Francesco ha passato l'estate 2014 lavorando su un progetto al Mega Ampere Generator for Plasma Implosion Experiments, nel Dipartimento di Fisica. 	NULL
+
+
+5	29/01/15 21:17	Modena e Reggio Emilia	Varie	["1","0"]	Tutto l'anno	["Triennale","Magistrale"]	{"label":"Link","link":"http:\/\/www.fim.unimore.it\/site\/home\/servizi-agli-studenti\/ufficio-stage\/offerta-stage-area-fisica.html"}	Tirocini proposti dall’università di Modena e Reggio Emilia riguardanti la partecipazione attiva degli studenti al lavoro di Research&Development (R&D) in aziende private.Il sito dell’Università pubblicizza anche stage presso l’osservatorio astronomico di Padova con possibilità di essere coinvolti nei diversi aspetti del lavoro di ricerca.	NULL
+
+
+6	29/01/15 21:19	INFN, Trieste	Varie	["0"]	Tutto l'anno	["Triennale","Magistrale"]	{"label":"Link","link":"http:\/\/www.ts.infn.it\/it\/servizi\/direzione\/opportunita\/tirocini-fisica.html"}	L’INFN di Trieste offre una vasta gamma di tirocini, in diversi rami della fisica teorica e sperimentale.	NULL
+
+
+7	29/01/15 21:21	Student placement - ESA	Space Science	["0"]	Variabile a seconda della località 	["Magistrale"]	{"label":"Link","link":"http:\/\/www.esa.int\/About_Us\/Careers_at_ESA\/Student_placements2"}	Programmi di stage dell’ESA, con possibilità per gli studenti di lavorare in uno dei centri di ricerca dell’agenzia in Francia, Germania, Italia (Frascati) o Spagna. Non è necessario essere già in possesso di un titolo di studio. E’ necessario fare domanda entro il 31 Ottobre.	NULL
+
+
+8	29/01/15 21:27	SURF - Caltech	Varie	["1"]	Estate	["Triennale","Magistrale"]	{"label":"Link","link":"http:\/\/announcements.surf.caltech.edu\/index.cfm?event=ShowAOPublicList&inFrame=&type=SURF&formType=AO_CIT"}	Programma estivo di ricerca, retribuito, della durata di 10 settimane e aperto studenti di fisica di tutti gli anni di corso. Le opportunità sono in genere pubblicizzate da inizio Novembre fino a circa metà Gennaio. Fare domanda il prima possibile è molto importante! Se siete interessati al lavoro di ricerca di un professore del Caltech che non ha pubblicato nessun progetto sul sito, potete comunque provare a scrivergli comunicandogli il vostro interesse e la vostra disponibilità a fare un SURF con lui. C’è una possibilità non-nulla che abbia qualche progetto interessante da proporvi!	NULL
+
+
+9	29/01/15 21:29	FuseNet	Plasma	["1","0"]	Tutto l'anno	["Triennale","Magistrale"]	{"label":"Link","link":"http:\/\/www.fusenet.eu\/node\/107"}	Stage di ricerca nell’ambito della fisica dei plasmi, in diversi paesi dell’Unione Europea. Alcuni tirocini, come quelli del CCFE, sono retribuiti, per altri uno stipendio non è garantito. In ogni caso conviene chiedere informazioni più specifiche sulla retribuzione agli organizzatori.	NULL
+
+
+11	23/02/15 13:05	52nd Culham Plasma Physics Summer School	Plasma	["0"]	Luglio 2015	["Triennale","Magistrale","Dottorato"]	{"label":"Culham Plasma Physics Summer School","link":"http:\/\/www.ccfe.ac.uk\/Events.aspx"}	La Summer School organizzata dal Culham Centre for Fusion Energy (CCFE), vicino Oxford (UK), e' una delle piu' conosciute nel campo di fisica dei plasmi e fusione nucleare. Questo programma include lezioni da parte dei ricercatori del CCFE e visite dei laboratori di JET e di MAST. Gli argomenti della summer school includeranno anche plasmi astrofisici. Le iscrizioni hanno un costo piu' basso prima del 1 Maggio. Il costo totale della summer school puo' essere stimato intorno agli 800 euro (tutto incluso). Una richiesta di fondi per coprire il costo del programma puo' essere presentata a FuseNet (vedi http://www.culhamsummerschool.org.uk/applications.htm). 	NULL
+
+
+12	23/02/15 13:16	Oxford University - Summer Placements	Varie	["1"]	Estate	["Triennale","Magistrale"]	{"label":"Oxford Summer Placement Programme","link":"http:\/\/www2.physics.ox.ac.uk\/research\/particle-physics\/summer-students"}	L'Universita' di Oxford offre a circa 8-10 studenti l'opportunita' di lavorare ad un progetto estivo durante il loro percorso di laurea. Gli studenti selezionati vengono pagati circa €250 a settimana. Le domande vanno consegnate entro il 22 Aprile 2015 (vedi link).	NULL
+
+
+13	23/02/15 13:23	Australian Astronomical Observatory	Space Science	["1"]	Estate	["Triennale","Magistrale"]	{"label":"Student Fellowships","link":"http:\/\/www.aao.gov.au\/science\/research\/students\/fellowships"}	L'Australian Astronomical Observatory offre a studenti di prima laurea la possibilita' di lavorare con un membro dello staff durante l'estate italiana (inverno australiano). I progetti si svolgono in un centro di ricerca a pochi kilometri da Sidney. Gli studenti vengono normalmente pagati A$700 (700 dollari australiani). 	NULL
+
+
+14	23/02/15 13:27	Edinburgh University - summer placements	Varie	["1","0"]	Estate	["Triennale","Magistrale"]	{"label":"Summer Placements","link":"http:\/\/www.ph.ed.ac.uk\/studying\/undergraduate\/student-life\/summer-placements"}	L'Universita' di Edinburgo (Scozia) offre dei progetti a studenti di triennale e magistrale in vari campi di lavoro nel dipartimento di fisica. Al link fornito, potrete trovare anche una serie di altre opportunita' pubblicizzate dall'Universita' e informazioni su come fare domanda per ricevere una borsa di studio per un progetto estivo. 	NULL
+
+
+15	24/02/15 15:48	Introduction to Complex Systems	Complex Systems	["0"]	24-28 agosto 2015	["Triennale"]	{"label":"sito ufficiale","link":"http:\/\/www.utrechtsummerschool.nl\/courses\/science\/introduction-to-complex-systems"}	Una settimana di lezioni sui sistemi complessi per i ragazzi della triennale all'Università di Utrecht. Costo: 350€	NULL
+
+
+16	24/02/15 15:53	DESY Summer Student Programme	Fisica delle particelle, Fotonica	[""]	luglio-settembre	["Triennale"]	{"label":"sito ufficiale","link":"http:\/\/summerstudents.desy.de\/"}	DESY è uno dei centri di ricerca leader nello studio della struttura della materia. Sviluppa e costruisce acceleratori di particelle e conduce ricerche nei campi della fotonica e della fisica delle particelle. Durante la scuola estiva gli studenti lavoreranno ad esperimenti di fisica delle particelle.Purtroppo le iscrizioni per il 2015 si sono già concluse, ma la summer school viene tenuta ogni anno, e potresti essere interessato alla sessione 2016.	NULL
+
+
+
+17	24/02/15 16:03	Nanomaterials: Science and Applications	Nanoscienze	["0"]	17-28 agosto 2015	["Triennale"]	{"label":"sito ufficiale","link":"http:\/\/www.utrechtsummerschool.nl\/courses\/science\/nanomaterials-science-and-applications"}	La summer school si tiene all'università di Utrecht ed è rivolta agli studenti della laurea triennale. Il costo è di 600€ tutto incluso. Maggiori informazioni sul sito ufficiale.	NULL
+
+
+18	25/02/15 18:22	X-Ray and Neutron Science Program - ESRF & ILL	Radiation & Neutron Science	["1"]	Estate	["Triennale","Magistrale"]	{"label":"Link","link":"http:\/\/www.esrf.eu\/home\/events\/conferences\/2016\/summerschool-2016.html"}	Programma per studenti undergraduate (dal secondo al quinto anno). I partecipanti seguiranno lezioni introduttive sui principi e le applicazioni della scienza dei raggi X e dei neutroni; inoltre prenderanno parte a un progetto sperimentale seguito dai gruppi di ricerca di ESRF e ILL.Durata: 4 settimane (6 settembre 2015 - 3 ottobre 2015) Luogo: European Photon & Neutron Science Campus (EPN), hosting the ESRF and ILL,   located in GrenobleDeadline principale per le domande: 1 aprile 2015	NULL
+
+
+
+19	25/02/15 18:33	The Leiden/ESA Astrophysics Program	Astrofisica	["1"]	Estate	["Triennale","Magistrale"]	{"label":"Link","link":"https:\/\/www.strw.leidenuniv.nl\/summerstudents\/"}	LEAPS è un’opportunità per studenti con interesse in astronomia e astrofisica; lo studente collaborerebbe con i ricercatori dell’Osservatorio di Leiden e dell’ESA in un programma di ricerca estivo.Le iscrizioni sono aperte per studenti non impegnati in un dottorato, con preferenza per studenti del terzo anno o della magistrale.Durata: 10-12 settimane Luogo: Leiden, OlandaDeadline principale per le domande: 6 febbraio 2015	NULL
+
+
+
+20	21/03/15 13:25	Space Astronomy Summer Program STScl	Space Science	["1"]	Estate	["Triennale","Magistrale"]	{"label":"Link","link":"http:\/\/www.stsci.edu\/institute\/smo\/students"}	Programma estivo di astrofisica al centro di controllo delle operazioni scientifiche che gestisce il telescopio spaziale Hubble.	NULL
+
+
+
+21	21/03/15 13:29	LPI Summer Intern Program in Planetary Science	Space Science	["1"]	Estate	["Triennale"]	{"label":"Link","link":"http:\/\/www.lpi.usra.edu\/lpiintern\/"}	Programma estivo di approfondimento e ricerca sui temi di scienza lunare e planetaria.	NULL
+
+
+22	21/03/15 13:30	Exploration Science Summer Intern Program	Space Science	["1"]	Estate	["Triennale","Magistrale"]	{"label":"Link","link":"http:\/\/www.lpi.usra.edu\/exploration_intern\/?view=program"}	Programma estivo di approfondimento e ricerca sulle possibilità di esplorazione robotica della Luna e di asteroidi vicini alla Terra.	NULL
+
+
+23	21/03/15 13:33	CUREA program	Astrofisica	["0"]	Estate	["Triennale"]	{"label":"Link","link":"http:\/\/physics.kenyon.edu\/people\/turner\/cureaweb\/CUREA.htm"}	http://physics.kenyon.edu/people/turner/cureaweb/CUREA.htm	NULL
+
+
+24	21/03/15 13:35	Dorrit Hoffleit Undergraduate Research Scholarship	Astrofisica	["1"]	Estate	["Triennale"]	{"label":"Link","link":"http:\/\/astronomy.yale.edu\/undergraduate-program\/research\/dorrit-hoffleit-undergraduate-research-scholarship"}	Progetto di ricerca estivo all’università di Yale.	NULL
+
+
+25	22/03/15 09:00	ASTRON/JIVE INTERNATIONAL SUMMER STUDENT PROGRAMME	Astrofisica	["1"]	Estate	["Magistrale","Dottorato"]	{"label":"Link","link":"http:\/\/www.astron.nl\/astronomy-group\/astronjive-summer-student-programme"}	Programma estivo di ricerca nell'ambito radioastronomico, sotto la supervisione del personale ASTRON e JIVE.	NULL
+
+
+26	22/03/15 09:06	Nicolaus Copernicus Astronomical Center	Astrofisica	["1","0"]	Estate	["Triennale"]	{"label":"Link","link":"https:\/\/www.camk.edu.pl\/en\/archiwum\/2015\/03\/19\/summer-student-programme-2015\/"}	Programma della durata di 4-6 settimane. Programma di ricerca sotto la supervisione di un membro dell staff del Nicolaus Copernicus Astronomical Center.	NULL
+
+
+27	22/03/15 09:11	ASIAA Summer Student Program	Astrofisica	["1"]	Estate	["Triennale"]	{"label":"Link","link":"https:\/\/www.asiaa.sinica.edu.tw\/outreach\/summerstudent.php"}	Programma di ricerca all'ASIAA, Taipei; l'offerta prevede lezioni di approfondimento e un progetto di ricerca individuali sotto la supervisione di un astronomo professionista.	NULL
+
+
+28	22/03/15 09:22	Technological development grants IAC	Space Science	["1"]	Estate	["Triennale","Magistrale"]	{"label":"Link","link":"http:\/\/www.iac.es\/estudiantes.php?op1=131&op2=417&op3=48&lang=en"}	Programma di sviluppo tecnologico all'Istituto di Astrofisica delle Isole Canarie.	NULL
+
+
+29	22/03/15 09:24	ESAC Trainees Program	Space Science	["1","0"]	3-6 mesi	["Triennale","Magistrale"]	{"label":"Link","link":"http:\/\/www.rssd.esa.int\/index.php?project=ESACTRAINEES&page=Training+Opportunities"}	Opportunità di collaborazione con progetti scientifici di grande rilevanza (es: Gaia, Rosetta e altri) all'ESAC.	NULL
+
+
+30	26/03/15 17:21	CNR-IFN, Istituto di Fotonica e Nanotecnologie - Trento	Nanotecnologie	["1"]	Tutto l'anno	["Triennale","Magistrale"]	{"label":"Link","link":"http:\/\/www.tn.ifn.cnr.it\/"}	Possibilità di svolgere uno stage presso l'Istituto di Fotonica e Nanotecnologie di Trento. I requisiti sono:- forte motivazione alla ricerca sperimentale in fotonica, ottica e scienza dei materiali, in particolare fotonica in vetro;- periodo di formazione non inferiore alle 5 settimane e comunque di durata compatibile al progetto di ricerca che si intende svolgere, da concordare con un ricercatore IFN- finanziamento da altro ente o struttura che si faccia carico del mantenimento dello stagista e assicuri la sua copertura assicurativa.In passato, lo stage è stato finanziato dai seguenti enti:-Università di Trento-Universitè Technique du Maine (Le Mans, Francia)-I licei Scientifici e Tecnologici di Trento e Rovereto.E' tuttavia chiaramente possibile accedere a finanziamenti da parte di altri enti a livello nazionale ed internazionale.	NULL
+
+
+
+31	26/04/15 15:21	Istituto Nazionale di Ricerca Metrologica (INRIM)	Varie	["0"]	Tutto l'anno	["Triennale","Magistrale"]	{"label":"Link","link":"http:\/\/www.inrim.it\/res\/tesi_i.shtml"}	Opportunità di tirocinio all'Istituto Nazione di Ricerca Metrologica, sia per tesi di livello triennale e magistrale, sia per progetti indipendenti. Le opportunità sono numerose, sia in campo teorico che sperimentale. Diverse aree della fisica sono toccate dalla ricerca all'INRIM, i titoli dei progetti disponibili al momento sono nell'apposita sezione del sito, di cui forniamo un link qui.	NULL
+
+
+32	16/08/15 03:14	SLAC/INFN Summer Exchanges	Particelle, Astrofisica	["1"]	Estate	["Magistrale"]	{"label":"Link","link":"http:\/\/www-group.slac.stanford.edu\/ppa\/slac_infn.html"}	Eccellente programma di stage estivo offerto in collaborazione tra lo Stanford Linear Accelerator e l'INFN. Il programma e' ben retribuito e offre un'ottima opportunità per acquisire esperienza di ricerca nell'ambito della fisica delle particelle e dell'astrofisica. Per partecipare, gli studenti dovranno aver conseguito la laurea triennale al momento dell'inizio del programma.	NULL
+
+
+33	18/10/15 21:46	AstroBetter	Astrofisica (piccolo database di internship)	["1","0"]	Tutto l'anno	["Triennale","Magistrale","Dottorato"]	{"label":"Link","link":"http:\/\/www.astrobetter.com\/wiki\/Summer+Internships"}	Il sito raccoglie un numero significativo di link a internship di ricerca nel campo dell'astrofisica.	NULL
+
+
+34	02/11/15 01:02	Anglo-Australian Obervatory	Astrofisica	["1"]	Estate	["Triennale","Magistrale"]	{"label":"Link","link":"https:\/\/www.aao.gov.au\/science\/research\/students\/fellowships"}		NULL
+
+
+35	02/11/15 01:04	Stage - DESY	Particelle	["1"]	Estate	["Triennale","Magistrale"]	{"label":"http:\/\/summerstudents.desy.de\/","link":"http:\/\/"}	Ottima opportunità per lavorare presso uno dei centri leader a livello mondiale nella ricerca in fisica delle particelle, il Deutsches Elektronen-Synchrotron (DESY) di Amburgo.	NULL
+
+
+36	02/11/15 10:30	IAESTE	Varie	["1"]	Tutto l'anno	["Triennale","Magistrale"]	{"label":"Link","link":"http:\/\/www.iaeste.org"}	Da piu' di trent'anni l'IAESTE (International Association for the Exchange of Students for Technical Experience) offre tirocini formativi  all'estero retribuiti. Queste opportunità si rivelano spesso un grande successo e un'esperienza fantastica a livello personale.	NULL
+
+
+37	02/11/15 10:35	Diamond Light Source	Particelle (sincrotrone)	["1"]	Estate	["Triennale","Magistrale"]	{"label":"Link","link":"http:\/\/www.diamond.ac.uk\/Careers\/Work-Placement\/Summer-Placement.html"}	Diamond Light Source is the UK's national synchrotron facility, located in Oxfordshire. Each year Diamond gives 10-15 undergraduate students the opportunity to work on a beamline during the summer period.	NULL
+
+
+38	02/11/15 10:40	http://www.selex-es.com/international-presence/uk/careers-2/placement-opportunities	Difesa	[""]	Estate	["Triennale","Magistrale"]	{"label":"Link","link":"http:\/\/www.selex-es.com\/international-presence\/uk\/careers-2\/placement-opportunities"}		NULL
+
+
+39	02/11/15 10:43	Ogden Centre - Teach Physics Internship	Insegnamento	["1"]	Estate	["Triennale","Magistrale","Dottorato"]	{"label":"Link","link":"http:\/\/www.ogdentrust.com\/promoting-physics\/teach-physics-internships"}		NULL
+
+
+40	02/11/15 10:45	Biophysics Sciences Institute Summer Bursaries	Biofisica	["1"]	Estate	["Triennale","Magistrale"]	{"label":"Link","link":"https:\/\/www.dur.ac.uk\/bsi\/bursaries\/"}	Programma di tirocinio nell'ambito della biofisica presso l'università di Durham, della durata di 4-8 settimane, a seconda delle preferenze dello studente e del gruppo di ricerca.	NULL
+
+41	02/11/15 10:49	Cavendish Nuclear	Nucleare	["1"]	Estate	["Triennale","Magistrale"]	{"label":"Link","link":"http:\/\/www.cavendishnuclear.com\/careers\/graduate\/summer-placements\/"}	
+Cavendish Nuclear offers summer placements for undergraduates looking to gain valuable industry experience to enhance and complement their university studies.We provide a range of summer placements 
+across our Engineering and Science areas, each lasting 12 weeks. (June to September)During the placement you will be given the opportunity to get hands-on experience working on real projects, working 
+alongside and learning from colleagues who are experts in their field as well as spending time with our new Graduates.	NULL
+
+42	13/01/16 22:06	Scuola Superiore Sant'Anna Pisa	Varie	["1","0"]	Tutto l'anno	["Triennale","Magistrale"]	{"label":"Link","link":"http:\/\/www.santannapisa.it\/it"}	A seguito della nostra 
+visita all'interno del programma di Lights of Tuscany 2015, la Scuola Superiore Sant'Anna di Pisa si e' espressa disponibile ad accogliere un numero di studenti di fisica come stagisti e tesisti, in 
+forma retribuita e non. La possibilita' di sostenere le spese di uno studente (vitto e alloggio) dipende dalle possibilita' economiche degli accademici contattati. In particolare, segnaliamo 
+interessanti opportunita' per studenti di fisica all'interno dell'Istituto TeCIP (specializzato in fotonica, nanotecnologia e fibre ottiche) e del Biorobotics Institute (robotica applicata ad arti 
+prostetici, robotica medica etc.). Per fare domanda, si consiglia di contattare un ricercatore di interesse per email (indirizzi disponibili sul sito della Scuola). Tale contatto puo' essere stabilito 
+in qualunque periodo dell'anno, preferibilmente con largo anticipo rispetto alla data richiesta per cominciare lo stage di ricerca. Eventuale domanda per retribuzione/rimborso spese sara' da rivolgere 
+al proprio supervisore. Per informazioni, potete contattare Francesco Sciortino (francesco.sciortino@ai-sf.it) all'interno del Comitato Esecutivo AISF, o direttamente Alice Dini (alice.dini@sssup.it), 
+che gestisce i diversi aspetti amministrativi per la Scuola Sant'Anna.	NULL
+
+43	18/01/16 22:30	Dipartimento di Fisica (PISA)	Superconduttori, Stato Solido	["0"]	Tutto l'anno	["Triennale","Magistrale"]	{"label":"Link","link":"http:\/\/www.comune.pisa.it\/it\/
+assessore\/200\/Maria-Luisa-Chiofalo.html"}	Su sollecitazione dell'AISF, la Prof. Maria Luisa Chiofalo, docente presso l’università di Pisa ed esperta di superconduttività ad alta temperatura critica 
+e applicazioni dei vapori atomici ultrafreddi, si e’ detta disponibile ad avere studenti tirocinanti (anche provenienti da atenei diversi da quello di Pisa) per progetti di ricerca. La possibilita’ di 
+retribuire eventuali stage con la Prof. Chiofalo e’ al momento limitata, tuttavia stiamo lavorando come AISF in collaborazione con il dipartimento di fisica a Pisa per promuovere modifiche 
+all’ordinamento degli stage ‘150 ore’, in modo da poter includere anche attività di ricerca degli studenti nei futuri bandi.	NULL
+
+44	03/02/16 11:39	University of Copenhagen	Metodi Numerici	["0"]	Estate	["Triennale"]	{"label":"Link","link":"http:\/\/kurser.ku.dk\/course\/nfyb14002u"}	Summer School organizzata dall'Università di Copenhagen. Se l'università di provenienza è partner di quella di Copenhagen il corso è gratuito, altrimenti sono circa 800€	NULL
+
+45	03/02/16 17:40	Summer School in Fisica e Tecnologie Nucleari	Fisica Nucleare	["0"]	Giugno 2016	["Triennale","Magistrale"]	{"label":"Link","link":"http:\/\/www.fe.infn.it\/ftnschool\/index.html"}		NULL
+
+46	03/02/16 17:42	Programma estivo di ricerca in Taiwan	Varie	["1"]	Estate	["Triennale","Magistrale"]	{"label":"Link","link":"https:\/\/www.most.gov.tw\/france\/en\/detail?article_uid=28c403b7-2406-4b0d-960d-03c4aea2de94&menu_id=59d55148-6b81-4055-b57f-506228581b9e&content_type=P&view_mode=listView"}		NULL
